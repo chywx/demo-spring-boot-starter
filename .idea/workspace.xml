@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e42d734-20c0-4c3e-8541-504badeb6c6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocean/demo/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocean/demo/DemoServiceProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ocean/demo/DemoStarterEnableAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/spring.factories" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../modules/core/db/mysql/core.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/core/db/mysql/core.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../modules/core/src/main/resources/config/jeesite-core.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../modules/core/src/main/resources/config/jeesite-core.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/src/main/resources/config/application.yml" afterDir="false" />
@@ -132,7 +142,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -227,7 +237,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/chy/androidsdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560745266959" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560745371014" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../svn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -516,7 +526,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560742744542</updated>
-      <workItem from="1560742746337" duration="2441000" />
+      <workItem from="1560742746337" duration="2887000" />
     </task>
     <task id="LOCAL-00001" summary="自定义starter">
       <created>1560745155525</created>
@@ -529,7 +539,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2441000" />
+    <option name="totallyTimeSpent" value="2887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
