@@ -11,6 +11,6 @@ public class DemoService {
     }
 
     public String say(String text) {
-        return String.format("%s , hi , %s , %s", prefix, text, suffix);
+        return String.format("%s , %s , %s", prefix, text, suffix);
     }
 }
