@@ -1,4 +1,4 @@
-package com.ocean.demo;
+package cn.chendahai.demo;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

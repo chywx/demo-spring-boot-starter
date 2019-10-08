@@ -1,4 +1,4 @@
-package com.ocean.demo;
+package cn.chendahai.demo;
 
 public class DemoService {
     private String prefix;

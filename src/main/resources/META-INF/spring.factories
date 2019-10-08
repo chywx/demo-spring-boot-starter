@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.ocean.demo.DemoStarterEnableAutoConfiguration
+  cn.chendahai.demo.DemoStarterEnableAutoConfiguration

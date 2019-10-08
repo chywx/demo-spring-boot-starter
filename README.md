@@ -7,7 +7,7 @@
 ```$xslt
 <!--自定义starter-->
 <dependency>
-    <groupId>com.ocean</groupId>
+    <groupId>cn.chendahai</groupId>
     <artifactId>demo-spring-boot-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
 </dependency>
