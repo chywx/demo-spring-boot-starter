@@ -6,8 +6,11 @@
 
     <groupId>cn.chendahai</groupId>
     <artifactId>demo-spring-boot-starter</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.3</version>
+    <packaging>jar</packaging>
     <name>demo-spring-boot-starter</name>
+    <description>spring-boot-starter-demo</description>
+    <url>https://github.com/chywx/demo-spring-boot-starter</url>
 
     <dependencies>
         <dependency>
