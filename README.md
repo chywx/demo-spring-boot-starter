@@ -1,7 +1,7 @@
 ## demo-spring-boot-starter
 自定义starter
 
-##使用方式
+## 使用方式
 
 #### 1.引入pom配置
 ```$xslt
@@ -22,7 +22,7 @@ demo.service.prefix=hello
 demo.service.suffix=world
 ``` 
 
-#### 3.使用
+#### 3.注入使用
 ```$xslt
 @Autowired
 DemoService demoService;
