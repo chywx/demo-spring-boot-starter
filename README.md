@@ -9,7 +9,7 @@
 <dependency>
     <groupId>cn.chendahai</groupId>
     <artifactId>demo-spring-boot-starter</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1.2</version>
 </dependency>
 ```
 
